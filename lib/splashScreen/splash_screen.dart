@@ -16,6 +16,7 @@ class _MySplashScreenState extends State<MySplashScreen> {
   startTimer() {
     Timer(const Duration(seconds: 1), () async {
       //if seller is loggedin already
+      /*
 
       if (firebaseAuth.currentUser != null) {
         Navigator.push(context, MaterialPageRoute(builder: (c) => const HomeScreen()));
@@ -24,8 +25,9 @@ class _MySplashScreenState extends State<MySplashScreen> {
       else {
         Navigator.push(context, MaterialPageRoute(builder: (c) => const AuthScreen()));
       }
+      */
 
-      //Navigator.push(context, MaterialPageRoute(builder: (c) => const AuthScreen()));
+      Navigator.push(context, MaterialPageRoute(builder: (c) => const AuthScreen()));
     });
   }
 
