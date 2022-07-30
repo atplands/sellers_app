@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "361979739471",
+    "project_id": "foodpanda-clone-app-2d37d",
+    "storage_bucket": "foodpanda-clone-app-2d37d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361979739471:android:25b0debfba4bdde777193a",
+        "android_client_info": {
+          "package_name": "com.pgcrops.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361979739471-kplah26chd6crltg34ihff6ipmacgvid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu3AX3esVmSbq86Up54eNZiwkkEja6dUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361979739471-kplah26chd6crltg34ihff6ipmacgvid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "361979739471-llqqqomh9hejhe00q533miqp52c6k4q5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pgcrops.sellersapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
